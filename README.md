@@ -34,7 +34,7 @@ Clone the repository to your local machine.
 Navigate to the project directory.
 Install dependencies using npm install.
 Start the server using npm start.
-Access the application in your web browser at http://localhost:3000.
+Access the application in your web browser at http://localhost:4000.
 Contributing:
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
