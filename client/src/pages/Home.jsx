@@ -14,7 +14,7 @@ const Home = () => {
       const getTasks = async () => {
         if (!user) return;
 
-        const response = await fetch("/api/tasks", {
+        const response = await fetch("https://preplan-app.onrender.com/api/tasks", {
           headers: {
             Authorization: `Bearer ${user.token}`,
           },

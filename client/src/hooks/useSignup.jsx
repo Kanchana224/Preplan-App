@@ -17,7 +17,7 @@ export const useSignup = () => {
       return;
     }
 
-    const response = await fetch("/api/user/signup", {
+    const response = await fetch("https://preplan-app.onrender.com/api/user/signup", {
       method: "POST",
       headers: {
         "Content-type": "application/json",
