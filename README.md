@@ -1,4 +1,4 @@
-<h1>Daily Preplaned Web Application</h1>
+<h1>Daily Preplaned Web Application..!</h1>
 This is a full-stack web application for daily planning, where users can create plans, manage them, and sign in to access their personalized dashboard. Below are the key features of this application:
 
 <h3>Features:</h3>
